@@ -1,10 +1,10 @@
 const video = {
   id: 1,
-  title: "React Today and Tomorrow and 90% Cleaner React With Hooks",
-  embedUrl: "https://www.youtube.com/embed/dpw9EHDh2bM",
-  views: 730707,
-  createdAt: "Oct 26, 2018",
-  upvotes: 9210,
+  title: "Peter Cat Recording Co. - Floated By",
+  embedUrl: "https://www.youtube.com/embed/961LpbX4zCU",
+  views: 609036,
+  createdAt: "Mar 21, 2019",
+  upvotes: 13456,
   downvotes: 185,
   comments: [
     {
@@ -15,7 +15,7 @@ const video = {
     {
       id: 2,
       user: "gaeron",
-      comment: "What a great tutorial!",
+      comment: "What a great song!",
     },
   ],
 };
